@@ -1,4 +1,4 @@
-What happens when you initialize a repository? Why do you need to do it?
+﻿What happens when you initialize a repository? Why do you need to do it?
 
 	
 
@@ -25,8 +25,20 @@ the diagram the way we do?
 
 	
 
+
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+
+pros
+saving time and attention
+
+cons
+the probability of conflicts when merging branches with similar changes in the same part of the code
+
+
+
 
 
 
